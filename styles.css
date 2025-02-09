@@ -1,0 +1,43 @@
+body {
+    background-color: #FEFAE0;
+    color: #000000;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #D4A373 !important;
+}
+
+.navbar-brand, .nav-link {
+    color: #000000 !important;
+}
+
+.container {
+    background-color: #E9EDC9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+h2 {
+    color: #000000;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #5A4636;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    padding: 5px 0;
+}
